@@ -1,6 +1,6 @@
 # ROGII – Wellbore Geology Prediction
 
-Kaggle competition solution — Michaud Carlos Kouétsa
+Kaggle competition solution - Michaud Carlos Kouétsa
 Competition organized by ROGII, deadline August 5, 2026
 
 ## 📌 Overview
@@ -41,8 +41,8 @@ Submissions are scored using **RMSE** (Root Mean Squared Error) on a hidden test
 
 ## 📂 Repository Contents
 
-- `rogii-wellbore-geology-prediction-1.ipynb` — full end-to-end pipeline (data loading → feature engineering → training → submission), executed successfully on Kaggle's infrastructure with no internet access, as required by the competition rules.
-- `ROGII_note_explicative.pdf` — explanatory note (in French) covering the competition context, technical glossary, code requirements, and work log.
+- `rogii-wellbore-geology-prediction-1.ipynb` : full end-to-end pipeline (data loading → feature engineering → training → submission), executed successfully on Kaggle's infrastructure with no internet access, as required by the competition rules.
+- `ROGII_note_explicative.pdf` : explanatory note (in French) covering the competition context, technical glossary, code requirements, and work log.
 
 ## 🧩 Pipeline Structure
 
