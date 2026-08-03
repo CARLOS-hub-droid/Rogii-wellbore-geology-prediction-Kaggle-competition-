@@ -7,7 +7,7 @@ Competition organized by ROGII, deadline August 5, 2026
 
 This repository contains my solution to the **ROGII - Wellbore Geology Prediction** Kaggle competition, focused on automating geological interpretation along horizontal oil & gas wells.
 
-In horizontal drilling, only the first portion of the well (right after the vertical-to-horizontal transition) has known geological position (**TVT — True Vertical Thickness**). The rest of the trajectory — often 75% of the well — must be predicted from indirect sensor measurements, mainly **Gamma Ray (GR)** signal, compared against a nearby reference well (**typewell**).
+In horizontal drilling, only the first portion of the well (right after the vertical-to-horizontal transition) has known geological position (**TVT — True Vertical Thickness**). The rest of the trajectory (often 75% of the well) must be predicted from indirect sensor measurements, mainly **Gamma Ray (GR)** signal, compared against a nearby reference well (**typewell**).
 
 ## 🎯 Task
 
