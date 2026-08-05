@@ -37,7 +37,7 @@ Submissions are scored using **RMSE** (Root Mean Squared Error) on a hidden test
 | Metric | Value |
 |---|---|
 | Mean CV RMSE (5-fold GroupKFold) | reported in notebook |
-| Public leaderboard score | **17.013** |
+| Public leaderboard score | **15.075** |
 
 ## 📂 Repository Contents
 
